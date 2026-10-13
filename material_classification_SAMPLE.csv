@@ -1,0 +1,26 @@
+MaterialCode,MaterialName,Category,MaterialGroupName,MaterialGroupName2,MaterialType,IsUnknownGroup,ShelfLifeDays,StorageCostPerUnitPerDay
+MAT-1001,Yellow Corn,Raw Materials,Grains & Oilseeds,GRAINS_&_OILSEEDS,Raw Material,False,76.0,0.0629
+MAT-1002,Soybean Meal,Raw Materials,Grains & Oilseeds,GRAINS_&_OILSEEDS,Raw Material,False,85.0,0.051
+MAT-1003,Wheat Bran,Raw Materials,Grains & Oilseeds,GRAINS_&_OILSEEDS,Raw Material,False,44.0,0.0579
+MAT-1004,Vitamin Premix,Raw Materials,Additives & Premixes,ADDITIVES_&_PREMIXES,Raw Material,False,47.0,0.0396
+MAT-1005,Amino Acid Blend,Raw Materials,Additives & Premixes,ADDITIVES_&_PREMIXES,Raw Material,False,42.0,0.0614
+MAT-1006,Enzyme Complex,Raw Materials,Additives & Premixes,ADDITIVES_&_PREMIXES,Raw Material,False,62.0,0.0265
+MAT-1007,Crude Palm Oil,Raw Materials,Fats & Oils,FATS_&_OILS,Raw Material,False,90.0,0.0417
+MAT-1008,Soy Oil,Raw Materials,Fats & Oils,FATS_&_OILS,Raw Material,False,65.0,0.0286
+MAT-1009,PP Woven Bags 25kg,Packaging,Primary Packaging,PRIMARY_PACKAGING,Non-Raw Material,False,1034.0,0.0034
+MAT-1010,PE Liner Film,Packaging,Primary Packaging,PRIMARY_PACKAGING,Non-Raw Material,False,1179.0,0.0039
+MAT-1011,Bag Closure Thread,Packaging,Primary Packaging,PRIMARY_PACKAGING,Non-Raw Material,False,828.0,0.0074
+MAT-1012,Pallet Wrap Film,Packaging,Secondary Packaging,SECONDARY_PACKAGING,Non-Raw Material,False,1196.0,0.0096
+MAT-1013,Corrugated Cartons,Packaging,Secondary Packaging,SECONDARY_PACKAGING,Non-Raw Material,False,1190.0,0.0071
+MAT-1014,Conveyor Belt Segment,MRO / Spare Parts,Mechanical Spares,MECHANICAL_SPARES,Non-Raw Material,False,1301.0,0.0118
+MAT-1015,Bearing Assembly,MRO / Spare Parts,Mechanical Spares,MECHANICAL_SPARES,Non-Raw Material,False,1295.0,0.0085
+MAT-1016,Gearbox Seal Kit,MRO / Spare Parts,Mechanical Spares,MECHANICAL_SPARES,Non-Raw Material,False,1472.0,0.0063
+MAT-1017,Motor Contactor,MRO / Spare Parts,Electrical Spares,ELECTRICAL_SPARES,Non-Raw Material,False,1495.0,0.0083
+MAT-1018,Sensor Module,MRO / Spare Parts,Electrical Spares,ELECTRICAL_SPARES,Non-Raw Material,False,2369.0,0.0065
+MAT-1019,Inbound Freight - Truck,Logistics Services,Freight,FREIGHT,Non-Raw Material,False,,
+MAT-1020,Inbound Freight - Sea,Logistics Services,Freight,FREIGHT,Non-Raw Material,False,,
+MAT-1021,Bonded Storage Fee,Logistics Services,Warehousing,WAREHOUSING,Non-Raw Material,False,,
+MAT-1022,Palletizing Service,Logistics Services,Warehousing,WAREHOUSING,Non-Raw Material,False,,
+MAT-1023,Misc Consumable 1,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,True,,
+MAT-1024,Misc Consumable 2,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,True,,
+MAT-1025,Misc Consumable 3,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,True,,
